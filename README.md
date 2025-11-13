@@ -927,3 +927,58 @@ All historical commits have been unified under MindX AI for branding and mission
 ### Historical Contributors
 This repository was initially connected with contributions under the name **Danail Minchev**.  
 All commits have now been unified under **MindX AI** for branding and mission clarity.
+![MindX AI](https://img.shields.io/badge/Ownership-MindX%20AI-blue?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+# MindX AI 🚀
+Ethical, scalable automation platforms for nonprofits and global impact.
+
+---
+
+## 📬 Connect with MindX AI
+
+- 🌐 GitHub Profile: [MindX AI on GitHub](https://github.com/Mind-Xai)
+- 🖼️ Gravatar: [MindX AI Gravatar](https://gravatar.com/mindxai)
+- 📲 WhatsApp: +1 646 777 5121
+- 📧 Email: connect@mind-xai.com
+
+---
+
+## 🛡️ Ownership Update
+This repository is now officially maintained and owned by **MindX AI**.  
+All historical commits have been unified under MindX AI for branding and mission clarity.
+
+---
+
+## 👥 Historical Contributors
+This repository was initially connected with contributions under the name **Danail Minchev**.  
+All commits have now been unified under **MindX AI** for transparency and branding.
+
+---
+
+## 🎓 Courses & Subscriptions
+MindX AI offers structured learning paths and premium resources:
+- Free community courses (curated from Awesome Lists)
+- Paid subscriptions for advanced modules and certifications
+- Mentorship and consulting for nonprofits and developers
+
+👉 Contact us at **connect@mind-xai.com** or WhatsApp **+1 646 777 5121** to subscribe.
+
+---
+
+## 📚 About This Repo
+This repository curates **Awesome Lists** — a collection of community-driven projects, frameworks, and resources across domains like:
+- 🌍 Citizen Science, Agriculture, Earth & Climate
+- 💻 Software Development, Site Reliability Engineering, Event-Driven Architecture
+- 🎨 Creative Coding, Web Design, Product Design
+- 🔬 Bioinformatics, Computational Biology, Scientific Computing
+- 📊 Economics, Credit Modeling, Quantified Self
+- 🎮 Gaming: Steam, Steam Deck, Pokémon, Board Games
+- 🤖 AI & Automation: ChatOps, Bots, ChatGPT, Whisper
+- 📡 IoT & Connectivity: MQTT, Homematic, WebXR
+- 📖 Documentation & Publishing: LaTeX, Markdown, Read the Docs, Quarto
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** — free to use, modify, and distribute with attribution.
